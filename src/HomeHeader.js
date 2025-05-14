@@ -436,437 +436,793 @@ let arrVideo = [
     //chuong11
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Cười, khóc, giơ tay: Thầy Minh biến học giao tiếp thành trò chơi thú vị",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Cách trò chơi đơn giản dạy trẻ giao tiếp, phản xạ và kỷ luật",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Yếu tố số 1 quyết định sự phát triển của con là gì?",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Trẻ sẽ chủ động giao tiếp khi bạn làm đúng 3 bước này",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Thầy Minh giải mã thông điệp yêu thương ẩn trong hành vi “cắn mẹ”",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Tăng động, nghịch phá ở lớp – Có đáng lo không?",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 11",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong12
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Phần ôn bài",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. 3 yếu tố tạo nên năng lượng – Chìa khóa chơi và dạy con hiệu quả",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Phân biệt rõ ràng giữa tự kỷ và rối loạn – Chìa khóa chữa lành",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Bốn chiến lược giúp trẻ tự kỷ học nói và kết nối xã hội hiệu quả",
+            "video-source": "",
+        },
+        {
+            title: "Bài 4. Từ bắt chước đến luân phiên – Hành trình mở lòng của trẻ tự kỷ",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Thiết kế trò chơi đúng cách – Giúp trẻ tự kỷ học nhanh và vui hơn",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Từ “xé giấy một mình” đến “chơi cùng mẹ” – Lộ trình 3 bước hiệu quả",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Nguyên lý vàng: Chơi đủ đã thì trẻ sẽ chơi đa dạng",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 12",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong13
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Năng lượng của bạn chính là nước nuôi dưỡng tâm hồn con trẻ!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Làm lại bài tập “ba hũ cơm” – Thí nghiệm đơn giản, bài học sâu sắc",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. 7 năm – 90 tỷ tế bào thay đổi: Sự thật về tiềm năng chữa lành từ bên trong",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bai 4. Bạn đang nuôi dưỡng tương lai hay kìm hãm con qua cách gọi tên hằng ngày?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Tên gọi không chỉ để gọi – Đó là thông điệp lập trình tương lai của trẻ!",
+            "video-source": "",
+        },
+        {
+            title: `Bài 6. Dạy con "khôn" là cho con quyền được sai, được thử, được đau!`,
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Con thích lao ra sông, nhảy vách đá – Cha mẹ cần phản ứng thế nào?",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 13",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong14
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Ngôn ngữ cảm xúc: Chiếc chìa khóa đầu tiên để kết nối với trẻ tự kỷ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Tự ti, buồn bực, mệt mỏi – Cách nhận diện và chuyển hóa cảm xúc tiêu cực",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Tuyệt đối tránh nói “ĐỪNG” với con – Não trẻ không hiểu từ đó!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Muốn con NGHE LỜI, đừng dạy “ngoan ngoãn” – Dạy con PHỐI HỢP và KHÔN NGOAN!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Bí mật đằng sau hành vi “kỳ lạ” của trẻ mà bố mẹ chưa hiểu…",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Khi cần, hãy nghiêm như “chiến sĩ công an” – Dạy con không phải lúc nào cũng nhẹ nhàng!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Gõ đồ, cắn tay, ngậm vật – Làm sao hiểu đúng và xử lý khôn ngoan?",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 14",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong15
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. 5 ngôn ngữ yêu thương – Chìa khóa để nuôi dạy trẻ rối loạn cảm xúc",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 2. Bài học từ cá heo: Đừng bắt con "đói yêu thương"`,
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Khen đúng lúc, đúng cách: Giúp trẻ phát triển cảm xúc và hành vi",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Yêu thương không chỉ là lời nói – Đó là hệ thống bạn xây cho con",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Hôn nhân không chỉ là trách nhiệm – Là nơi nuôi dưỡng ước mơ cùng nhau",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 15",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong16
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. 10 Tuyên bố cha mẹ tuyệt vời – Nguồn năng lượng chữa lành mỗi ngày!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. 5 bài massage chữa lành giúp trẻ tự kỷ, chậm nói thư giãn và kết nối!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Không thuốc vẫn khỏe – Bí quyết chăm sóc con bằng massage và vitamin",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Từ “sai vặt” thành yêu thương – Dạy con làm việc nhà đúng cách",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Kỷ luật với chính mình – Yêu thương đúng cách với con",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 16",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong17
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Trắc nghiệm 5 tiêu chí – Phát hiện sớm dấu hiệu rối loạn phát triển",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Tự kiểm tra khả năng giao tiếp & ngôn ngữ của con tại nhà – Hướng dẫn chi tiết",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Ép con nói như ép mía – Làm sao để ra ngọt chứ không ra chanh?",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Giận giả vờ, thương thật lòng – Dạy con bằng mẹo cảm xúc",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Đừng ép con học nếu bạn chưa hiểu điều này!",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 17",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong18
     [
         {
-            title: "",
+            title: "Bài 1. Áp dụng đúng – đủ – đều, phụ huynh bất ngờ với tiến bộ thần tốc của con",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Cô giáo chia sẻ bí quyết giúp con từng “không có nhận thức” nay phát triển thần kỳ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Tắm sông cùng con không chỉ là tắm – Đó là phép màu kết nối và yêu thương",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Con không chịu uống nước ép? Đây là cách mẹ Tím chinh phục thành công!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 5. Con chưa nói được? Bà Lộc vẫn không bỏ cuộc – Câu chuyện lay động lòng người",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 18",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong19
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Thầy Minh: Đừng để “con quỷ trong đầu” phá hỏng con bạn!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Đừng ép con nói! Hãy đặt câu hỏi để con… suy nghĩ trước đã",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Cách dùng 6W1H để mở khóa não bộ của trẻ đặc biệt",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Kỹ thuật giúp trẻ trả lời “bằng được” – mà vẫn vui và phát triển tư duy",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. 3 kỹ thuật hỏi giúp trẻ phát triển tư duy và nói chủ động",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Chiến lược giúp con ghép câu mạch lạc và tư duy logic",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. 6 câu hỏi biến một trang truyện tranh thành bài học giao tiếp tuyệt vời",
+            "video-source": "",
+        },
+        {
+            title: `Bài 8. Đừng mang yêu quái về nhà – Thầy Minh nói về “nhạc ung thư”`,
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 19",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong20
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Vì sao con bạn chưa tiến bộ? Lý do thất bại được thầy Minh chỉ rõ",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 2. Thầy Minh: "Tôi buồn khi phụ huynh thất bại vì thiếu kiên định và kết nối"`,
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Đừng dạy con nói – hãy dạy con TƯ DUY trước đã!",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 4. "Xa tầm với": Chiến thuật đơn giản giúp con bật lên tư duy`,
+            "video-source": "",
+        },
+        {
+            title: `Bài 5. Chiến lược "làm mẫu rồi rút lui" – Bí quyết giúp trẻ tự lập từng bước`,
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Ngôn ngữ hướng tới – Bí quyết giúp con chủ động và biết suy nghĩ",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 20",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong21
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Không thử thách, không trưởng thành – triết lý giáo dục của thầy Minh",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Tại sao trẻ trên 5 tuổi thay đổi chậm hơn? Câu trả lời bất ngờ từ thầy Minh",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Thầy Minh: Muốn con phát triển, cha mẹ phải học trước",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Có nên cho con tự kỷ nghỉ học? – Câu trả lời không nằm ở trường",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Dốc hết vì con: Yêu thương hay vô tình đánh mất chính mình?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Dạy con bằng yêu thương hay cảm xúc mạnh? Thầy Minh nói rõ!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Thay vì bảo “ngoan đi”, hãy nói điều này – Cách dạy con đỉnh cao!",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 21",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong22
     [
         {
-            title: "",
+            title: "Bài 1. Trẻ ăn vạ không phải vì hư – Hiểu đúng để không làm sai!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Ăn vạ không phải do trẻ không biết gì – Trẻ rối loạn cũng biết tính toán!",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 3. Khi cha mẹ thành "cảnh sát": Cách xử lý ăn vạ không khoan nhượng!`,
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 4. Ăn vạ: Đừng dạy con “chiến thắng” bằng nước mắt!`,
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 5. Kiên trì + Trí tuệ = Công thức vàng để nuôi dạy trẻ phát triển toàn diện",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Dạy con như chim đại bàng – Không cứu, không ép, chỉ dẫn đường!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Trị ăn vạ chỉ trong 1 nốt nhạc – 5 bước vàng không thể thiếu!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 8. Đừng dỗ, đừng dọa – Đây mới là cách trị ăn vạ hiệu quả nhất",
+            "video-source": "",
+        },
+        {
+            title: "Bài 9. Muốn con có trí tuệ, phải để con tự trả giá!",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 22",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong23
     [
         {
-            title: "",
+            title: "Bài 1. Con bạn có rối loạn hành vi? Hãy bắt đầu chữa từ chính năng lượng của bạn",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Cách mẹ chữa lành 80% rối loạn cho con mà không dùng thuốc",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Muốn con hết rối loạn – cha mẹ phải bắt đầu từ chính mình",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Tự kỷ không phải là bệnh – Hãy chữa lành rối loạn trước",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Tóm tắt chương 23",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong24
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Giấc ngủ không chỉ để nghỉ – Mà để chữa lành từ bên trong!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Ngủ không sâu, con khó lớn – Tất cả bắt đầu từ melatonin!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Đừng ép con ngủ đúng giờ – hãy đưa con lên giường đúng giờ!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Giải pháp thực tế giúp con ngủ ngon mà không cần thuốc ngủ",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. 4 huyệt đạo chữa mất ngủ cho trẻ: Dễ làm, hiệu quả bất ngờ!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Lòng biết ơn – Quy luật số 12 của vũ trụ giúp con trưởng thành hạnh phúc",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Thực hành thiền biết ơn giúp con ngủ ngon, tâm trí bình an",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 24",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong25
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Bước chuyển mạnh mẽ: Từ chữa lành sang huấn luyện kỹ năng sống cho trẻ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Những kỹ năng phát triển con cần có để thành công trong tương lai",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Cha mẹ đừng nói con “tự lập” nếu không làm được điều này!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Chia nhỏ đến từng bước – cách dạy trẻ hiệu quả mà phụ huynh ít biết!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Bài học lớn nhất dạy con: Trở thành tấm gương sống",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. 5 bước dạy kỹ năng sống cho trẻ: công thức huấn luyện từ chuyên gia",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 25",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong26
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Chữa lành cảm xúc cho trẻ – Bí quyết nằm ở cha mẹ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Chỉ dạy con bằng lời? Bạn chỉ truyền được 5% kiến thức!",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 3. Từ “xé sách” đến “nghiện sách” – Chỉ cần thay đổi cách tiếp cận`,
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Muốn con thích học? Hãy học cùng con, đừng chỉ dạy!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Làm điều này - Giúp con nhớ bài sâu hơn gấp 10 lần!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Xé giấy, la hét, vẫy tay – Biểu hiện bệnh hay cơ chế tự chữa lành của trẻ?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Trẻ hay đập đầu giữa đêm là do rối loạn? Cách xử lý sâu từ bên trong cha mẹ",
+            "video-source": "",
+        },
+        {
+            title: "Bài 8. Con cứ đòi sờ cùi chỏ, đòi mua xe hoài – Là ăn vạ hay rối loạn?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 9. Snack, nước ngọt và cái bẫy rối loạn não bộ ở trẻ – Cha mẹ cần biết!",
+            "video-source": "",
+        },
+        {
+            title: "Bài 10. Trẻ đập phá, xô cửa không phải rối loạn – mà là chưa biết chơi!",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 26",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong27
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. 3 giai đoạn chữa lành và dạy con hòa nhập: Phụ huynh cần hiểu rõ!",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Hướng dẫn thiết lập lớp học tại nhà giúp trẻ sẵn sàng hòa nhập",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. 2 kỹ năng đầu tiên cha mẹ cần dạy con trước khi đến trường",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Làm theo yêu cầu: Kỹ năng khó nhất cha mẹ cần rèn cho trẻ",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Dạy con nghe lời bằng sự tôn trọng và khen ngợi đúng lúc",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Giải pháp khi trẻ khóc mỗi sáng không chịu đi học",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Đừng dạy con sợ người lạ – Dạy kỹ năng tự bảo vệ mới là điều quan trọng",
+            "video-source": "",
+        },
+        {
+            title: "Bài 8. Trẻ đánh bạn, xoay người trong lớp: Xử lý sao cho đúng cách?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 9. Tẩy giun cho trẻ rối loạn phát triển: nên dùng thuốc hay giải pháp tự nhiên?",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 27",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong28
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Ba giai đoạn chữa lành – Làm đúng mới mang con về đích",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 2. Thầy Minh cảnh báo: Đừng tin quảng cáo "chữa tự kỷ" – nguy hiểm!`,
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Trẻ không làm theo lời? Hãy bắt đầu từ 10 mệnh lệnh đơn giản này!",
             "video-source": "",
         },
         {
-            title: "",
+            title: `Bài 4. Lý do con không làm theo lời: Cha mẹ đang “ra lệnh” sai cách!`,
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Bí quyết kích hoạt não bộ qua MẮT – TAY – MIỆNG: Dạy 1 lần, nhớ cả đời!",
+            "video-source": "",
+        },
+        {
+            title: `Bài 6. Muốn con phát triển? Hãy chữa lành “nước” – chính bản thân cha mẹ trước!`,
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Trẻ tự kỷ – mất kết nối cảm xúc: Cha mẹ phải làm gì?",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 28",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
     //chuong29
     [
         {
-            title: "",
+            title: "Chia sẻ đầu giờ",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 1. Bạn đang ở nhóm nào trong hành trình chữa lành cho con?",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 2. Cho con mượn đôi chân: Câu chuyện huyền thoại về tình cha con lay động triệu người",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 3. Con bạn đang bị ảnh hưởng bởi quá khứ bạn chưa chữa lành",
             "video-source": "",
         },
         {
-            title: "",
+            title: "Bài 4. Bạn có thật sự tham gia hành trình chữa lành không? Hay chỉ đang đứng ngoài cuộc?",
+            "video-source": "",
+        },
+        {
+            title: "Bài 5. Tôi xin lỗi – Xin hãy tha thứ – Cảm ơn – Tôi yêu bạn: 4 câu làm thay đổi cuộc đời",
+            "video-source": "",
+        },
+        {
+            title: "Bài 6. Bài thực hành chữa lành Ho’oponopono cùng con – mở khóa tình yêu vô điều kiện",
+            "video-source": "",
+        },
+        {
+            title: "Bài 7. Bài học từ trái tim: Cách chữa lành con bằng tình yêu của cha mẹ",
+            "video-source": "",
+        },
+        {
+            title: "Bài 8. 28 ngày thay đổi cuộc đời: Chữa lành thân – tâm – trí",
+            "video-source": "",
+        },
+        {
+            title: "Tóm tắt chương 29",
+            "video-source": "",
+        },
+        {
+            title: "Bài tập cần hoàn thành",
             "video-source": "",
         },
     ],
