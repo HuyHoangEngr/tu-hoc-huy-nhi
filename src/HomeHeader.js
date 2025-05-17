@@ -40,7 +40,7 @@ let arrVideo = [
     [
         {
             title: "Bài 1. Học Cách Chữa Lành Con: Bắt Đầu Từ Việc Tự Học Và Tự Chữa Bản Thân",
-            "video-source": "https://www.youtube.com/embed/g-JWQeeCAJk",
+            "video-source": "https://www.youtube.com/embed/tWrtD-sfdLk",
         },
         {
             title: "Bài 2. Chìa Khóa Chữa Lành Cho Trẻ: Trí Tuệ Và Tinh Thần Của Cha Mẹ",
@@ -644,27 +644,27 @@ let arrVideo = [
     [
         {
             title: "Chia sẻ đầu giờ",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/e70NdfYqHJg",
         },
         {
             title: "Bài 1. 10 Tuyên bố cha mẹ tuyệt vời – Nguồn năng lượng chữa lành mỗi ngày!",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/jCmyAe6dGVU",
         },
         {
             title: "Bài 2. 5 bài massage chữa lành giúp trẻ tự kỷ, chậm nói thư giãn và kết nối!",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/H-HoM0NRBrE",
         },
         {
             title: "Bài 3. Không thuốc vẫn khỏe – Bí quyết chăm sóc con bằng massage và vitamin",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed//IGLUAUcknGg",
         },
         {
             title: "Bài 4. Từ “sai vặt” thành yêu thương – Dạy con làm việc nhà đúng cách",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/2-C-cgeH3j8",
         },
         {
             title: "Bài 5. Kỷ luật với chính mình – Yêu thương đúng cách với con",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/MY3wA7MTb9o",
         },
         {
             title: "Tóm tắt chương 16",
@@ -679,27 +679,27 @@ let arrVideo = [
     [
         {
             title: "Chia sẻ đầu giờ",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/T6U3h6Zd82U",
         },
         {
             title: "Bài 1. Trắc nghiệm 5 tiêu chí – Phát hiện sớm dấu hiệu rối loạn phát triển",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/zGpqr-5geUc",
         },
         {
             title: "Bài 2. Tự kiểm tra khả năng giao tiếp & ngôn ngữ của con tại nhà – Hướng dẫn chi tiết",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/twqsNl4mk4k",
         },
         {
             title: "Bài 3. Ép con nói như ép mía – Làm sao để ra ngọt chứ không ra chanh?",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/k0n98mkIXmo",
         },
         {
             title: "Bài 4. Giận giả vờ, thương thật lòng – Dạy con bằng mẹo cảm xúc",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/i_N_f68JMks",
         },
         {
             title: "Bài 5. Đừng ép con học nếu bạn chưa hiểu điều này!",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/Y1IefiGddsg",
         },
         {
             title: "Tóm tắt chương 17",
@@ -714,23 +714,23 @@ let arrVideo = [
     [
         {
             title: "Bài 1. Áp dụng đúng – đủ – đều, phụ huynh bất ngờ với tiến bộ thần tốc của con",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/Zn3dao1kg78",
         },
         {
             title: "Bài 2. Cô giáo chia sẻ bí quyết giúp con từng “không có nhận thức” nay phát triển thần kỳ",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/-rBW1rIPyf0",
         },
         {
             title: "Bài 3. Tắm sông cùng con không chỉ là tắm – Đó là phép màu kết nối và yêu thương",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/nyrzeQnINCk",
         },
         {
             title: "Bài 4. Con không chịu uống nước ép? Đây là cách mẹ Tím chinh phục thành công!",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/ijQc6A4pDkU",
         },
         {
             title: "Bài 5. Con chưa nói được? Bà Lộc vẫn không bỏ cuộc – Câu chuyện lay động lòng người",
-            "video-source": "https://www.youtube.com/embed/",
+            "video-source": "https://www.youtube.com/embed/Py2k-vW6008",
         },
         {
             title: "Bài tập cần hoàn thành",
@@ -1278,7 +1278,7 @@ class HomeHeader extends Component {
     render() {
         return (
             <React.Fragment>
-                <div className="container">
+                <div className="container mt-5">
                     <div class="scrollmenu">
                         {arrNameOfChapter.map((item, index) => {
                             return (
@@ -1338,8 +1338,6 @@ class HomeHeader extends Component {
                         </div>
                         <div className="video">
                             <iframe
-                                width="1296"
-                                height="729"
                                 src={this.state.nguonVideo}
                                 title=""
                                 frameborder="0"
